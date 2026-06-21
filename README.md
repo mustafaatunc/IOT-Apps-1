@@ -7,7 +7,7 @@ Bu proje, ESP32 mikrodenetleyicisi kullanılarak geliştirilmiş bir Nesnelerin 
 * **Wokwi Simülasyon Linki:** [Proje Simülasyonu](https://wokwi.com/projects/461194890980510721)
   
 ## 📸 Devre Şeması
-![Devre Şeması](<img width="946" height="527" alt="image" src="https://github.com/user-attachments/assets/0c3e317d-ee70-470c-90f1-f56d8619f2de" />)
+![Devre Şeması]("https://github.com/user-attachments/assets/0c3e317d-ee70-470c-90f1-f56d8619f2de")
 
 ## 🚀 Özellikler
 
