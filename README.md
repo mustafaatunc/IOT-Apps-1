@@ -2,6 +2,13 @@
 
 Bu proje, ESP32 mikrodenetleyicisi kullanılarak geliştirilmiş bir Nesnelerin İnterneti (IoT) tabanlı çevre izleme sistemidir. Sistem; ortamdaki sıcaklık, nem ve ışık şiddetini ölçerek bu verileri bir I2C LCD ekran üzerinde düzenli aralıklarla gösterir ve ortam koşullarına göre RGB LED ile görsel uyarılar üretir. Projenin simülasyonu Wokwi ortamında gerçekleştirilmiştir.
 
+## 🔗 Proje Bağlantıları
+
+* **Wokwi Simülasyon Linki:** [Proje Simülasyonu](https://wokwi.com/projects/461194890980510721)
+  
+## 📸 Devre Şeması
+![Devre Şeması](<img width="946" height="527" alt="image" src="https://github.com/user-attachments/assets/0c3e317d-ee70-470c-90f1-f56d8619f2de" />)
+
 ## 🚀 Özellikler
 
 * **Eşzamanlı Sensör Okuma:** Sensör verileri her 2000 milisaniyede bir `millis()` kullanılarak, mikrodenetleyiciyi duraklatmadan (non-blocking) okunur.
